@@ -18,13 +18,8 @@ with col2:
     technical skills in various domains such as programming, robotics, and system analysis. 
     I’m highly adaptable and versatile, always eager to learn and expand my knowledge, 
     which allows me to embrace new challenges with confidence.
-    I’m recognized for my problem-solving abilities, technical expertise, and innovative 
-    thinking. Passionate about addressing complex challenges, I enjoy designing automation 
-    solutions and debugging intricate code. With hands-on experience in programming, data 
-    analysis, and debugging through internships and projects, I thrive in dynamic 
-    environments where collaboration and continuous learning are key. My solution-driven 
-    mindset and dedication to improvement inspire me to contribute to impactful, forward-
-    thinking projects that push technological boundaries.
+    I’m recognized for my problem-solving abilities, technical expertise, innovative 
+    thinking and passionate about addressing complex challenges.
     """
     st.info(content)
 
